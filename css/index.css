@@ -72,8 +72,26 @@
   .cover_logo{
     height: 100px;
   }
+
+  .main_section_home{
+    margin-top: -1em;
+  }
+}
+.main_section {
+  margin-top: -3em!important;
 }
 
+@media (max-width: 768px) { 
+  .main_section{
+    margin-top: 0em !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .main_section {
+    margin-top: 0em;
+  }
+}
 
 /*
  * Custom translucent site header
