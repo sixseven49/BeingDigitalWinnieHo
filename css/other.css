@@ -1,0 +1,19 @@
+.main_section {
+  margin-top: -3em;
+}
+
+
+.about_cover_bg{
+  background-image: url("../images/gym_team.jpg")!important; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.freeStuff_cover_bg{
+  background-image: url("../images/free_stuff_bg.jpg")!important; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
